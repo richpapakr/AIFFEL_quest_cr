@@ -14,8 +14,7 @@
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-        ![1](https://github.com/user-attachments/assets/36afe77b-7049-4204-b195-a8d674271cba)
+   ![1](https://github.com/user-attachments/assets/36afe77b-7049-4204-b195-a8d674271cba)
     핵심적인 부분에 뒤에서부터 배열순서라고 주석을 달아놓으셔서 이해하기 좋았다.
 
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
